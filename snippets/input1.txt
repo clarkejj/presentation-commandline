@@ -1,0 +1,10 @@
+user1	188
+user1	696
+user1	697
+user1	183
+user2	171
+user2	820
+user2   687
+user2   692
+user2   726
+user2   748
